@@ -1,0 +1,2 @@
+gameserver = pod
+fleet = deployment
